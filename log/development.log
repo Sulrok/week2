@@ -1,0 +1,15 @@
+
+
+Started GET "/" for 83.141.77.130 at 2016-02-16 12:33:23 +0000
+
+SyntaxError (/home/ubuntu/workspace/week2/app/controllers/application_controller.rb:6: syntax error, unexpected ':', expecting keyword_end
+    render text : "hello, world"
+                 ^):
+  app/controllers/application_controller.rb:6: syntax error, unexpected ':', expecting keyword_end
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/web-console-2.0.0.beta3/lib/action_dispatch/templates/rescues/_source.erb (3.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/web-console-2.0.0.beta3/lib/action_dispatch/templates/rescues/_trace.html.erb (2.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/web-console-2.0.0.beta3/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (14.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/web-console-2.0.0.beta3/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.1ms)
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/web-console-2.0.0.beta3/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (128.1ms)
